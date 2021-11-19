@@ -1,5 +1,6 @@
 #!/bin/bash 
 
+#make sure ${AWS_SECRET_ACCESS_KEY} is set
 for ARGUMENT in "$@"
 do
 
